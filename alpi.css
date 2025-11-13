@@ -49,6 +49,19 @@ form button {
     background-color: rgba(11, 12, 12, 0.219);
 }
 
+input,
+textarea,
+button {
+    justify-content: center;
+    display: flex;
+    margin: 0 auto;
+    width: 50px;
+}
+
 h2{
+    text-align: center;
+}
+
+p{
     text-align: center;
 }
